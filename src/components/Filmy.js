@@ -3,7 +3,7 @@ import {Card} from 'react-bootstrap';
 import { Link } from 'react-router-dom'; 
 import axios from 'axios';
 import{useEffect ,useState} from 'react'
-import Cardy from './Cardy';
+import Cardy from '../Cards';
 
 
 export default function Filmy() {
